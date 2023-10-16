@@ -22,7 +22,7 @@ To run the project, follow these steps:
 
 1. Clone the repository.
 2. Ensure you have Python installed.
-3. Install the required Python libraries by running `pip install -r requirements.txt`.
+3. Install the required Python libraries.
 4. Run the Jupyter Notebook or Python script to train and evaluate the machine-learning models.
 
 ## Models and Evaluation
