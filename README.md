@@ -3,7 +3,7 @@ Stock Price Prediction Project using Linear Regression, SVM, and KNN for forecas
 
 This project focuses on predicting Netflix (NFLX) stock prices using machine learning models, including Linear Regression, Support Vector Regression (SVM), and K-nearest neighbours (KNN). The models are trained on historical stock market data from the "NFLX.csv" dataset to forecast future stock prices.
 
-Stock Price Prediction Project using machine learning models like Linear Regression, SVM, and KNN to forecast Netflix (NFLX) stock prices based on historical data from the 'NFLX.csv' dataset. Evaluate and compare model performance with metrics such as MSE, RMSE, MAE, and R2-scores.
+Stock Price Prediction Project using machine learning models like Linear Regression, SVM, and KNN to forecast Netflix (NFLX) stock prices based on historical data from the 'NFLX.csv' dataset. Evaluate and compare model performance with metrics such as MSE, RMSE, MAE, and R2 scores.
 
 ## Dataset
 
@@ -32,3 +32,4 @@ The project uses Linear Regression, Support Vector Regression (SVM), and K-neare
 ## Author
 
 Digvijay Phutane
+https://github.com/DigvijayPhutane
